@@ -26,10 +26,10 @@ En el TP N°1 se van a Desarrollar temas basicos de programacion python, y su co
 4. Realizar una estructura de carpetas src, bin, doc, script.
 
 
-## Informacion sobre GitHub
 
-(https://www.google.com.ar/url?sa=i&url=https%3A%2F%2Fwww.hackaboss.com%2Fblog%2Fgithub-utilidad-copilot&psig=AOvVaw0KqDt3mOfVT2CwZm4uuErP&ust=1711235116811000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjDxbHb_YiFAxUETLgEHX11AZYQjRx6BAgAEBY).
 
-![Foto GitHub](C:\Users\Claudio\UADER-IS2-GONZALEZ\src\descarga.png)
+![Más información de GitHub](https://www.google.com.ar/url?sa=i&url=https%3A%2F%2Fwww.hackaboss.com%2Fblog%2Fgithub-utilidad-copilot&psig=AOvVaw0KqDt3mOfVT2CwZm4uuErP&ust=1711235116811000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjDxbHb_YiFAxUETLgEHX11AZYQjRx6BAgAEBY).
+
+![Foto GitHub](src/descarga.png)
 
 
