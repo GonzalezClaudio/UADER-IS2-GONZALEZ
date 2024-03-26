@@ -28,8 +28,13 @@ def main():
     plt.ylabel('Número de inicio de la secuencia (n)')
     #Cuadricula para visualizar mejor el gráfico
     plt.grid(True)
+    # Establecer marcas de los ejes x en 10.
+    plt.xticks(range(0, int(max(iteraciones) * 1.1) + 1, 10))
+    # Establecer marcas de los ejes x en 50.
+    plt.yticks(range(0, int(max(numeros) * 1.1) + 1, 50))
     #Muestra el gráfico
     plt.show()
+
 
 if __name__ == "__main__":
     main()
