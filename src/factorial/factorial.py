@@ -91,9 +91,6 @@ import sys
 
 
 # Funcion para calcular el factorial de un número dado
-
-
-
 def factorial(num):
     if num < 0:
         print("El factorial de un número negativo no existe")
