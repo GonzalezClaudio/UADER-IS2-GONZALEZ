@@ -107,7 +107,7 @@ plt.legend()
 plt.show()
 
 #*------------------------------------------------------------------------------------------------
-#* Estimar esfuerzo para LOC = 9100 utilizando el modelo exponencial
+#* Estimar esfuerzo para LOC = 200 utilizando el modelo exponencial
 #*------------------------------------------------------------------------------------------------
 LOC_est = 200
 esfuerzo_estimado = k * (LOC_est ** b)
